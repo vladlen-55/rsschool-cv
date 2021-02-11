@@ -1,4 +1,17 @@
-li {
-    color:red
+li {color: rgb(7, 243, 7);
+    font-size: 30px;
 }
-.center {text-align: center}
+body {background-color: black}
+img {
+	-webkit-border-radius: 50em;
+	-moz-border-radius: 50em;
+    border-radius: 50em;}
+    h1 {color: rgb(7, 243, 7);
+    font-size: 40px;
+text-align: center;
+font-weight:bold;}
+h2 {font-weight:bold;
+    color: rgb(7, 243, 7);
+    font-size: 35px;}
+  div {text-align: center;}  
+  a {color: rgb(7, 243, 7);}
